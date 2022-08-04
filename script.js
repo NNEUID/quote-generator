@@ -47,5 +47,5 @@ function tweetQuote() {
 twitterBtn.addEventListener('click', tweetQuote);
 newQuoteBtn.addEventListener('click', getQuote)
 
-// On Load
+// Initial Quote on Load
 getQuote()
